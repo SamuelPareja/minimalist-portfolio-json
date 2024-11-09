@@ -17,18 +17,18 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "SamuelPareja",
+        "url": "https://linkedin.com/in/SamuelPareja"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "SamuelPareja",
+        "url": "https://x.com/SamuelPareja"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "SamuelPareja",
+        "url": "https://github.com/SamuelPareja"
       }
     ]
   },

@@ -78,13 +78,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Santa Joaquina de Vedruna, Sevilla",
+    "url": "https://vedrunasevilla.org/",
+    "area": "Web Application Designer",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "startDate": "2022-09-19",
+    "endDate": "2024-03-11",
+    "score": "7.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
